@@ -1,3 +1,0 @@
-streamlit
-PyMuPDF
-ibm-watsonx-ai
